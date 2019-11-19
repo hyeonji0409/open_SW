@@ -4,9 +4,12 @@ public class PushPrint {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Add JAVA Class File Push");
-		System.out.println("20183274 Á¤ÇöÁö ÀÔ´Ï´Ù.");
-		System.out.println("ÇöÀç ½Ã°¢Àº 12½Ã 06ºĞ ÀÔ´Ï´Ù.");
-		System.out.println("ÄÚµå ¼öÁ¤");
+		System.out.println("20183274 ì •í˜„ì§€ ì…ë‹ˆë‹¤.");
+		System.out.println("í˜„ì¬ ì‹œê°ì€ 12ì‹œ 06ë¶„ ì…ë‹ˆë‹¤.");
+		System.out.println("ì½”ë“œ ìˆ˜ì •");
+		System.out.println("20183274 ì •í˜„ì§€ì…ë‹ˆë‹¤..");
+		System.out.println("í˜„ì¬ ì‹œê°ì€ 12ì‹œ 06ë¶„ ì…ë‹ˆë‹¤.");
+		System.out.println("ì½”ë“œ ìˆ˜ì • in GitHub");
 	}
 
 }
