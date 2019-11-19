@@ -6,6 +6,7 @@ public class Hello_World {
 		System.out.println("Hello World");
 		System.out.println("Wonkwang University");
 		System.out.println("Computer SW");
+		System.out.println("마무리 단계");
 	}
 
 }
